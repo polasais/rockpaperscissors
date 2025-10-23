@@ -1,12 +1,12 @@
-# Rock Paper Scissors Game 🪨📄✂️
+# Rock Paper Scissors Game
 
 A simple console-based Rock Paper Scissors game built with vanilla JavaScript. Play 5 rounds against the computer and see who wins!
 
-## 🎮 Game Description
+## Game Description
 
 This is a classic Rock Paper Scissors game where you compete against the computer over 5 rounds. The game runs in the browser console and uses prompts for user input.
 
-## 🎯 Features
+## Features
 
 - **5 Round Format**: Best of 5 rounds determines the winner
 - **Random Computer Opponent**: Computer makes random choices using Math.random()
@@ -14,14 +14,14 @@ This is a classic Rock Paper Scissors game where you compete against the compute
 - **Tie Handling**: Handles tie scenarios gracefully
 - **Console-Based Interface**: All game interactions happen through browser console and prompts
 
-## 🎲 Game Rules
+## Game Rules
 
 - Rock beats Scissors
 - Scissors beats Paper
 - Paper beats Rock
 - Same choice results in a tie (round doesn't count toward score)
 
-## 🚀 How to Play
+## How to Play
 
 1. Open `index.html` in your web browser
 2. Open the browser's developer console (F12 or right-click → Inspect → Console)
@@ -29,7 +29,7 @@ This is a classic Rock Paper Scissors game where you compete against the compute
 4. Watch the results of each round in the console
 5. After 5 rounds, see who won the game!
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 rock-paper-scissors/
@@ -38,7 +38,7 @@ rock-paper-scissors/
 └── README.md        # This file
 ```
 
-## 💻 Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -53,7 +53,7 @@ open index.html
 
 Or simply download the files and open `index.html` in your browser.
 
-## 🔧 Technical Details
+## Technical Details
 
 ### Functions
 
@@ -85,7 +85,7 @@ Or simply download the files and open `index.html` in your browser.
 - `humanScore`: Tracks player's wins (integer)
 - `computerScore`: Tracks computer's wins (integer)
 
-## 🎨 Example Gameplay
+## Example Gameplay
 
 ```
 Round 1
@@ -122,22 +122,22 @@ Potential enhancements for future versions:
 - [ ] Mobile responsive design
 - [ ] Add difficulty levels (predictable vs random AI)
 
-## 🐛 Known Limitations
+## Known Limitations
 
 - All interaction happens through console and prompts
 - No input validation (entering invalid choices may cause unexpected behavior)
 - Case-sensitive without proper error handling
 - No GUI for visual feedback
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to fork this project and submit pull requests for any improvements!
 
-## 📝 License
+## License
 
 This project is open source and available under the MIT License.
 
-## 👤 Author
+## Author
 
 Created as a learning project to practice:
 - JavaScript fundamentals
@@ -146,7 +146,7 @@ Created as a learning project to practice:
 - Control flow (loops and conditionals)
 - DOM manipulation basics
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates:
 - Random number generation
@@ -158,5 +158,3 @@ This project demonstrates:
 - Console-based debugging
 
 ---
-
-**Enjoy the game and may the best player win!** 🏆
